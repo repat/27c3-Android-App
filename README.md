@@ -2,6 +2,8 @@
 ======
 App for the [27c3-Fahrplan](http://events.ccc.de/congress/2010/wiki/Schedule "27c3 Wiki").
 
+I wrote this with nearly no knowledge of Java a few years back. Oh, well...
+
 ## Contact
 * http://repat.de
 * email: repat[at]repat[dot]de
